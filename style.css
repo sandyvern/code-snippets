@@ -1,8 +1,9 @@
 /* Customized Numbered List */
 .amazing-list {
-  list-style: none;
+  list-style: none;        /* Removes the default numbering */
   counter-reset: li;
-  font-family: 'Roboto Slab', sans-serif;
+  margin-left:0;           /* Removes the default left margin */
+  padding-left:0;          /* Removes the default left padding */
 }
 
 .amazing-list li::before {
