@@ -1,0 +1,28 @@
+/* Customized Numbered List */
+.amazing-list {
+  list-style: none;
+  counter-reset: li;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+.amazing-list li::before {
+  content: counter(li); 
+  color: #81c14b;
+  font-size: 2em;
+  font-weight: bold;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1.5em;
+  margin-right: .5em;
+  text-align: right;
+  direction: rtl;
+}
+
+.amazing-list, 
+.entry-content ol > li {
+	list-style: none;
+}
+
+.amazing-list li {
+  counter-increment: li;
+}
