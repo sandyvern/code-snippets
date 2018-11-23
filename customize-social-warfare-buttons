@@ -3,7 +3,7 @@
 .swp_social_panel.swp_default_full_color .swp_twitter, body .swp_social_panel.swp_other_full_color:hover .swp_twitter, html body .swp_social_panel.swp_individual_full_color .swp_twitter:hover,
 .swp_social_panel.swp_default_full_color .swp_facebook, body .swp_social_panel.swp_other_full_color:hover .swp_facebook, html body .swp_social_panel.swp_individual_full_color .swp_facebook:hover,
 .swp_social_panel.swp_default_full_color .swp_google_plus, body .swp_social_panel.swp_other_full_color:hover .swp_google_plus, html body .swp_social_panel.swp_individual_full_color .swp_google_plus:hover,
-.swp_social_panel.swp_default_full_color .swp_stumbleupon, body .swp_social_panel.swp_other_full_color:hover .swp_stumbleupon, html body .swp_social_panel.swp_individual_full_color .swp_stumbleupon:hover{
+.swp_social_panel.swp_default_full_color .swp_mix, body .swp_social_panel.swp_other_full_color:hover .swp_mix, html body .swp_social_panel.swp_individual_full_color .swp_mix:hover{
 	border: none !important;
 	background-color: #8d8187 !important;
 }
