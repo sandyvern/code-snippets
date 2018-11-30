@@ -1,0 +1,15 @@
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook:hover .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-facebook:hover,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter:hover .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-twitter:hover,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-pinterest .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-pinterest,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-pinterest:hover .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-pinterest:hover {
+	border-color: #000;
+	background-color: #000;
+}
