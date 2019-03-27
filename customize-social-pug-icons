@@ -13,7 +13,11 @@
 .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin .dpsp-network-icon,
 .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin,
 .dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin:hover .dpsp-network-icon,
-.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin:hover{
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-linkedin:hover,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-mix .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-mix,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-mix:hover .dpsp-network-icon,
+.dpsp-networks-btns-wrapper .dpsp-network-btn.dpsp-mix:hover{
 	border-color: #000;
 	background-color: #000;
 }
