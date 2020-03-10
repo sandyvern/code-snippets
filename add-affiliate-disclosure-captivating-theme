@@ -1,0 +1,35 @@
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+<tbody>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-LC1" class="blob-code blob-code-inner js-file-line"><strong>//* Customize the Post Meta function</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L2" class="blob-num js-line-number" data-line-number="2">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC2" class="blob-code blob-code-inner js-file-line"><strong>add_filter( 'genesis_post_meta', 'captivating_post_meta_filter' );</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L3" class="blob-num js-line-number" data-line-number="3">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC3" class="blob-code blob-code-inner js-file-line"><strong>function captivating_post_meta_filter( $post_meta ) {</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L4" class="blob-num js-line-number" data-line-number="4">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC4" class="blob-code blob-code-inner js-file-line">&nbsp;</td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L5" class="blob-num js-line-number" data-line-number="5">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC5" class="blob-code blob-code-inner js-file-line"><strong>$post_meta = '[post_categories before="" sep="&amp;middot;"] This post may contain affiliate links. You can read our affiliate policy &lt;a href="<a href="https://youramazingsite.com/affiliate-disclaimer/">https://youramaizingsite/affiliate-disclaimer</a>"&gt; here&lt;/a&gt;.';</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L6" class="blob-num js-line-number" data-line-number="6">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC6" class="blob-code blob-code-inner js-file-line"><strong>return $post_meta;</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L7" class="blob-num js-line-number" data-line-number="7">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC7" class="blob-code blob-code-inner js-file-line">&nbsp;</td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-L8" class="blob-num js-line-number" data-line-number="8">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-LC8" class="blob-code blob-code-inner js-file-line"><strong>}</strong></td>
+</tr>
+</tbody>
+</table>
