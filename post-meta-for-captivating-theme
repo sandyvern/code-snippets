@@ -1,0 +1,35 @@
+<table class="highlight tab-size js-file-line-container" data-tab-size="8">
+<tbody>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-LC1" class="blob-code blob-code-inner js-file-line"><strong>//* Customize the Post Meta function</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L2" class="blob-num js-line-number" data-line-number="2">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC2" class="blob-code blob-code-inner js-file-line"><strong>add_filter( 'genesis_post_meta', 'captivating_post_meta_filter' );</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L3" class="blob-num js-line-number" data-line-number="3">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC3" class="blob-code blob-code-inner js-file-line"><strong>function captivating_post_meta_filter( $post_meta ) {</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L4" class="blob-num js-line-number" data-line-number="4">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC4" class="blob-code blob-code-inner js-file-line">&nbsp;</td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L5" class="blob-num js-line-number" data-line-number="5">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC5" class="blob-code blob-code-inner js-file-line"><strong>$post_meta = '[post_categories before="" sep="&amp;middot;"]';</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L6" class="blob-num js-line-number" data-line-number="6">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC6" class="blob-code blob-code-inner js-file-line"><strong>return $post_meta;</strong></td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L7" class="blob-num js-line-number" data-line-number="7">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC7" class="blob-code blob-code-inner js-file-line">&nbsp;</td>
+</tr>
+<tr>
+<td id="file-add-affiliate-disclosure-captivating-original-L8" class="blob-num js-line-number" data-line-number="8">&nbsp;</td>
+<td id="file-add-affiliate-disclosure-captivating-original-LC8" class="blob-code blob-code-inner js-file-line"><strong>}</strong></td>
+</tr>
+</tbody>
+</table>
